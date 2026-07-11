@@ -45,7 +45,7 @@ Seorang lulusan **Sastra Inggris** yang sukses bertransformasi menjadi **Data Sc
 
 ## 🛠️ Langkah Menjalankan Proyek Secara Lokal
 
-Jika Anda ingin menjalankan dashboard Streamlit ini di komputer Anda:
+Untuk menjalankan Streamlit
 
 1. Clone repositori ini:
    ```bash
